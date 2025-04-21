@@ -3,4 +3,3 @@ GAMBOA REZOLUSAUN
   * Programmasaun (Front-end developer no Beck-end developer)
 - tinan 2025 tenke iha portofolio rasik utiliza (front-end developer)
 - Aprende Django iha tinan 2025 nia laran
-- Finaliza aprendigagem ativu iha DEI
